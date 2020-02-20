@@ -1,0 +1,17 @@
+{
+  "name": "CheckingFinal",
+  "description": "This is for checksum creation and verification",
+  "version": "1.0.0",
+  "author": "Soumya Vats",
+  "main": "checksum_v2/index.js",
+  "keywords": [
+    "test",
+    "checking",
+    "Node"
+  ],
+  "homepage": "https://developer.test.com/docs/checking/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soumya-vats/testing_node_again"
+  }
+}
